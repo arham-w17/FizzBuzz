@@ -301,7 +301,7 @@ through the readings and coding homework over the next few of weeks.
 for any files that you have changed if you haven't done so recently. Remember to include a descriptive commit message!
 
 ### Task 3.4 Pulling changes from GitHub
-
+ 
 So far we have only talked about how to *push local changes* to a remote repository on GitHub. In practice, several
 programmers will often be working in the same remote repository. So when one programmer pushes their changes, everyone
 else needs a way to update their local copies to reflect these changes. Git provides a command for just that!
